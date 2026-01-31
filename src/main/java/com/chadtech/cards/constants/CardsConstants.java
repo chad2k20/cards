@@ -1,4 +1,4 @@
-package com.eazybytes.cards.constants;
+package com.chadtech.cards.constants;
 
 public final class CardsConstants {
 

@@ -1,4 +1,4 @@
-package com.eazybytes.cards;
+package com.chadtech.cards;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.eazybytes.cards.entity;
+package com.chadtech.cards.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
